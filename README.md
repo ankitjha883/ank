@@ -1,5 +1,7 @@
 # xss tool and sqli detector tool
+git clone https://github.com/ankitjha883/ank.git
+cd ank  
 python3 ankit.py
-enter the url
-give the wordlist and hit enter
-the xss or sqli will found if there is bug
+enter url example.com
+
+
